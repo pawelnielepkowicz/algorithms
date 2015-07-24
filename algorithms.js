@@ -127,4 +127,4 @@ for (var o = 0; o < max; o++) {
 }
 
 
-console.log("Jaka jest maksymalna ilość samolotów w powietrzu jednocześnie: " + maxColumn);
+console.log("jaka jest największa ilość jednocześnie nakładających się na siebie odcinków: " + maxColumn);
